@@ -1,23 +1,117 @@
+# Meme Generator Gallery
 
+A full-stack web application for creating, customizing, and storing memes with a MySQL-backed gallery.
 
-The **Meme Generator with Gallery using MySQL** project provides an interactive platform for users to create, customize, and store memes online. It effectively integrates **HTML5, CSS3, Bootstrap, JavaScript, PHP, and MySQL** to offer a smooth, responsive, and database-driven experience.
-The project demonstrates key skills in **dynamic web development, file handling, responsive UI design, and backend data management**. It is lightweight, user-friendly, and deployable on both local and hosted servers — serving as a practical example of full-stack web development.
+## Overview
+
+Meme Generator Gallery allows users to create memes from the browser and store generated memes in a centralized gallery.
+
+The project demonstrates end-to-end web development across the frontend, backend, database, and file-handling layers.
+
+## Features
+
+* Create and customize memes
+* Upload and manage meme images
+* Store generated memes using MySQL
+* Browse memes through a gallery
+* Responsive web interface
+* Server-side processing with PHP
+
+## Tech Stack
+
+**Frontend**
+HTML5 · CSS3 · Bootstrap · JavaScript
+
+**Backend**
+PHP
+
+**Database**
+MySQL
+
+**Development**
+XAMPP · Git · GitHub
+
+## Architecture
+
+```text
+User
+ ↓
+Frontend
+(HTML / CSS / JavaScript)
+ ↓
+PHP Backend
+ ↓
+MySQL Database
+ ↓
+Meme Gallery
+```
+
+## Project Structure
+
+```text
+├── frontend
+├── backend
+├── database
+├── assets
+└── screenshots
+```
+
+## Screenshots
+
+### Meme Generator
+
+![Meme Generator](screenshots/editor.png)
+
+### Gallery
+
+![Gallery](screenshots/gallery.png)
+
+## Local Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/B241561/meme-generator-gallery.git
+```
+
+### 2. Start the environment
+
+Run Apache and MySQL using XAMPP.
+
+### 3. Configure the database
+
+Import:
+
+```text
+database/schema.sql
+```
+
+into MySQL.
+
+### 4. Place the project
+
+Move the project into the XAMPP `htdocs` directory.
+
+### 5. Run
+
+Open the application through the local Apache server.
+
+## What I Learned
+
+* Building a full-stack web application
+* Connecting PHP applications with MySQL
+* Handling file uploads and server-side processing
+* Designing responsive interfaces
+* Structuring a small web application for deployment
+
+## Future Improvements
+
+* User authentication
+* Meme template library
+* Social sharing
+* AI-assisted caption generation
+* Improved input validation and security
 
 ---
 
-## **Future Scope**
-
-Although the system meets its core objectives, it can be further improved with the following features:
-
-* **User Accounts:** Allow users to register and manage their meme collections.
-* **Download & Share Options:** Enable direct download or social media sharing.
-* **Meme Template Library:** Add a library of popular templates.
-* **AI Caption Suggestions:** Generate automatic meme captions using AI/ML.
-* **Like & Comment System:** Enhance interactivity within the gallery.
-* **Dark Mode & Themes:** Offer customizable UI themes.
-* **Mobile App Version:** Extend the project to a cross-platform mobile app.
-* **Security Enhancements:** Use prepared statements, HTTPS, and input sanitization for improved safety.
-
----
-
-
+**Author:** Arman Kaushik
