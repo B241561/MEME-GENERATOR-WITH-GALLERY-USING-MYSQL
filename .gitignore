@@ -1,0 +1,12 @@
+# Local environment files and editor settings
+.env
+.env.*
+.vscode/
+
+# Runtime and temporary files
+*.log
+*.tmp
+Thumbs.db
+
+# XAMPP-generated files
+php_errorlog
