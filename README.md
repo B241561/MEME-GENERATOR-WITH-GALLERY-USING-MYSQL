@@ -1,6 +1,8 @@
 # Meme Generator Gallery
 
 A browser-based meme generator that renders uploaded images with captions and stores PNG memes in a PHP and MySQL gallery.
+<img width="500" height="500" alt="logo png" src="https://github.com/user-attachments/assets/0642efd7-2370-4150-ba8f-0a5c7f3e7d28" />
+
 
 ## Overview
 
