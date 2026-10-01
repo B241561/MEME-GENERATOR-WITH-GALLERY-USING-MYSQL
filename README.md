@@ -1,4 +1,4 @@
-<img width="50" height="50" alt="logo png" src="https://github.com/user-attachments/assets/0642efd7-2370-4150-ba8f-0a5c7f3e7d28" /> 
+<img width="100" height="100" alt="logo png" src="https://github.com/user-attachments/assets/0642efd7-2370-4150-ba8f-0a5c7f3e7d28" /> 
 
 # Meme Generator Gallery
 
