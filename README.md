@@ -27,6 +27,10 @@ The editor uses the browser Canvas API to draw an uploaded image and optional to
 - PHP with MySQLi
 - MySQL
 - XAMPP for local Apache and MySQL services
+- 
+  ## 📸 Application Preview
+  
+  <img width="1247" height="592" alt="image" src="https://github.com/user-attachments/assets/342fab16-7991-4f6f-987a-9c42c68c01dd" />
 
 ## Architecture
 
