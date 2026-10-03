@@ -34,21 +34,7 @@ The editor uses the browser Canvas API to draw an uploaded image and optional to
 
 ## Architecture
 
-```text
-User
-  |
-  v
-meme.html (Canvas editor)
-  | JSON: PNG image + captions
-  v
-save_meme.php
-  | MySQLi prepared INSERT
-  v
-memes table
-  | SELECT
-  v
-show_meme.php (gallery)
-```
+<img width="1024" height="572" alt="cdfbad63-3353-4528-a9cb-11318d4eda2f" src="https://github.com/user-attachments/assets/6d700815-2753-4b6a-a091-10eb7a52a53b" />
 
 ## Project Structure
 
