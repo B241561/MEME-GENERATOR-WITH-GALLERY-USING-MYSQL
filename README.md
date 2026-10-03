@@ -34,7 +34,7 @@ The editor uses the browser Canvas API to draw an uploaded image and optional to
 
 ## Architecture
 
-<img width="1024" height="572" alt="cdfbad63-3353-4528-a9cb-11318d4eda2f" src="https://github.com/user-attachments/assets/6d700815-2753-4b6a-a091-10eb7a52a53b" />
+<img width="1024" height="572" alt="4dd045d5-7473-4b30-a96b-745502264872" src="https://github.com/user-attachments/assets/14fb86ab-1fb5-4573-afc4-a24a4429eaed" />
 
 ## Project Structure
 
